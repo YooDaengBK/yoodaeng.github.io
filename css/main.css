@@ -1542,6 +1542,7 @@ header .logo a {
 	letter-spacing: .2rem;
 	font-size: 1.5rem;
 	line-height: 3rem;
+	padding: 0;
 }
 .about-content .info-list li span {
 	display: block;
@@ -1549,6 +1550,17 @@ header .logo a {
 	color: #888888;
 	font-size: 1.5rem;
 	line-height: 1;
+}
+.skill{
+	margin-bottom: 0em;
+}
+.skill li{
+	font-family: "poppins-regular", sans-serif;
+	font-size: 1.5rem;
+	line-height: 1rem;
+	margin-left: 2em;
+	margin-bottom: 1em;
+	color: #888888;
 }
 .about-content .skill-bars {
 	margin-top: 6rem;
@@ -1559,9 +1571,10 @@ header .logo a {
 }
 .button-section .button {
 	width: 250px;
+	margin-left: 2em;
 }
 .button-section [class*="col-"] .button:first-child {
-	margin-right: 4rem;
+	
 }
 
 /**

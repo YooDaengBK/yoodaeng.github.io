@@ -166,6 +166,11 @@
 .fa-glass:before {
   content: "\f000";
 }
+.fa-telegram:before {
+  content: "\f2c6"; }
+
+.fa-telegram-plane:before {
+  content: "\f3fe"; }
 .fa-music:before {
   content: "\f001";
 }
